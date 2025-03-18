@@ -1,0 +1,3 @@
+microsoft-edge-stable
+microsoft-edge-dev
+chromium-driver
